@@ -1,0 +1,14 @@
+{
+  "name": "job-application-assistant",
+  "version": "1.0.0",
+  "description": "Tailors a cover letter and highlights the most relevant resume bullets for a specific job posting, using Claude.",
+  "main": "generate_application.js",
+  "scripts": {
+    "generate": "node generate_application.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.0",
+    "docx": "^9.1.0",
+    "dotenv": "^16.4.5"
+  }
+}
