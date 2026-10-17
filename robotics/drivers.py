@@ -3,7 +3,7 @@ drivers.py - THE DRIVERS (adapters)
 
 Two simulated drivers. Both follow the same Sensor contract,
 so any code that works with one works with the other.
-That is what "reusable" means in the job description.
+That is what makes them reusable.
 """
 import random
 

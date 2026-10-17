@@ -1,7 +1,6 @@
 """
 sensor.py - THE CONTRACT (version 1.0.0)
 
-This is the "documented contract" from the job description.
 Every sensor driver MUST provide these three methods.
 Think of it like an ICD between subsystems, written in code.
 

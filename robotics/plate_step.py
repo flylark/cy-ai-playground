@@ -1,7 +1,5 @@
 """Run-control state machine for one plate step in a lab work cell.
 
-Module 1 practice for the Alexion orchestration interview.
-
 Design rules this file demonstrates:
   1. States, events and allowed transitions are explicit (one table).
   2. Any move not in the table is rejected (IllegalTransition).
